@@ -1,0 +1,5 @@
+# Direct dependencies verified on Python 3.12.14; see VERIFICATION.md.
+# Tests use Python's built-in unittest.
+streamlit==1.66.1
+ollama==0.6.3
+
